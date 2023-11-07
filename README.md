@@ -1,4 +1,6 @@
-## Telco Customer Churn About Dataset
+## Telco Customer Churn
+
+### Problem
 
 Predict behavior to retain customers. You can analyze all relevant customer data
 and develop focused customer retention programs.
@@ -67,5 +69,6 @@ streaming TV and movies
 
 ## Resource
 
-[Kaggle]('https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data')
-[IBM -Telco dataset]('https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113')
+(Kaggle)['https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data']
+
+- [IBM -Telco dataset]('https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113')
