@@ -16,21 +16,21 @@ The data set includes information about:
 
 - Services that each customer has signed up for :
 
-phone,
+  - phone,
 
-multiple lines,
+  - multiple lines,
 
-Internet,
+  - Internet,
 
-online security,
+  - online security,
 
-online backup,
+  - online backup,
 
-device protection,
+  - device protection,
 
-tech support, and
+  - tech support, and
 
-streaming TV and movies
+  - streaming TV and movies
 
 - Customer account information – how long they’ve been a customer, contract,
   payment method, paperless billing, monthly charges, and total charges
@@ -69,6 +69,6 @@ streaming TV and movies
 
 ## Resource
 
-[Kaggle]('https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data')
+- [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data)
 
 - [IBM -Telco dataset](https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113)
